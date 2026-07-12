@@ -23,7 +23,7 @@ ENV/
 
 #Transcripts
 
-data/transcripts
+data/transcripts/
 
 # ==========================================================
 # IDE
